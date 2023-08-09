@@ -94,7 +94,7 @@ NOTE: These are Amazon affiliate links.
 |https://leanpub.com/visualising-software-architecture[Software Architecture for Developers, Volume 2] | Simon Brown | English 
 
 |https://amzn.to/2smM5Kp[arc42 in Aktion:
-Praktische Tipps zur Architekturdokumentation] |von Gernot Starke and Peter Hruschka40:00 | German
+Praktische Tipps zur Architekturdokumentation] |von Gernot Starke and Peter Hruschka | German
 
 |https://amzn.to/2ru9Yvr[Softwarearchitekturen dokumentieren und kommunizieren:
 Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten] |von Stefan Zörner | German
